@@ -1,0 +1,20 @@
+# Python environment: Python 3.7 or later recommended
+
+# Core libraries
+numpy==1.23.5               # Numerical computations
+pandas==1.3.5               # Data manipulation and analysis
+matplotlib==3.7.1           # Visualization of images and plots
+scikit-learn==1.2.2         # Machine learning utilities
+scipy==1.9.3                # For distance calculations and scientific computations
+Pillow==9.5.0               # Image processing
+
+# Deep learning frameworks
+tensorflow==2.13.0          # For deep learning models
+keras==2.13.1               # Keras API for TensorFlow
+
+# PyTorch and vision libraries
+torch==2.0.1+cu117          # PyTorch with CUDA for GPU support
+torchvision==0.15.2+cu117   # TorchVision for image transformations and models
+
+# Networking libraries
+requests==2.28.2            # HTTP requests for downloading datasets
