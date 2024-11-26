@@ -8,7 +8,6 @@ mini-project-2/
 │   ├── flattened_features.py
 │   ├── resnet_features_160.py
 │   └── resnet_features_192.py
-│
 ├── dataset
 │   ├── part_one_dataset
 │   │   ├── eval_data
@@ -20,7 +19,6 @@ mini-project-2/
 │   │   │   │- datasets 1 to 10
 │   │   │
 │   │   └── .DS_Store
-│   │
 │   ├── part_two_dataset
 │   │   ├── eval_data
 │   │   │   │
@@ -31,9 +29,7 @@ mini-project-2/
 │   │   │   │- datasets 11 to 20
 │   │   │   │
 │   │   └── .DS_Store
-│   │
 │   └── .DS_Store
-│
 ├── 66.ipynb
 ├── 66.py
 ├── Deja Vu Continual Model Generalization.pptx
@@ -41,3 +37,4 @@ mini-project-2/
 ├── Report.pdf
 ├── description.pdf
 └── requirements.txt
+
