@@ -1,37 +1,40 @@
 # Directory strecture
 
-mini-project-1/
+mini-project-2/
 ├── codes
-│   ├── Task1_emoticon.ipynb
-│   ├── Task1_feat.ipynb
-│   ├── Task1_seq.ipynb
-│   ├── Task2_combined_data.ipynb
-│   ├── task1_emoticon.py
-│   ├── task1_feat.py
-│   ├── task1_seq.py
-│   └── task2_combined_data.py
-├── datasets
-│   ├── test
-│   │   ├── test_emoticon.csv
-│   │   ├── test_feature.npz
-│   │   └── test_text_seq.csv
-│   ├── train
-│   │   ├── train_emoticon.csv
-│   │   ├── train_feature.npz
-│   │   └── train_text_seq.csv
-│   └── valid
-│       ├── valid_emoticon.csv
-│       ├── valid_feature.npz
-│       └── valid_text_seq.csv
-├── predictions
-│   ├── pred_combined.txt
-│   ├── pred_deepfeat.txt
-│   ├── pred_emoticon.txt
-│   └── pred_textseq.txt
+│   ├── Resnet_features_160.ipynb
+│   ├── Resnet_features_192.ipynb
+│   ├── flattened_features.ipynb
+│   ├── flattened_features.py
+│   ├── resnet_features_160.py
+│   └── resnet_features_192.py
+├── dataset
+│   ├── part_one_dataset
+│   │   ├── eval_data
+│   │   │
+│   │   │   │- datasets 1 to 10
+│   │   │
+│   │   ├── train_data
+│   │   │
+│   │   │   │- datasets 1 to 10
+│   │   │
+│   │   └── .DS_Store
+│   ├── part_two_dataset
+│   │   ├── eval_data
+│   │   │   │
+│   │   │   │- datasets 11 to 20
+│   │   │   │
+│   │   ├── train_data
+│   │   │   │
+│   │   │   │- datasets 11 to 20
+│   │   │   │
+│   │   └── .DS_Store
+│   └── .DS_Store
 ├── 66.ipynb
 ├── 66.py
+├── Deja Vu Continual Model Generalization.pptx
 ├── README
 ├── Report.pdf
 ├── description.pdf
-├── read_data.py
 └── requirements.txt
+
