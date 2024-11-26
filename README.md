@@ -1,5 +1,3 @@
-# Directory strecture
-
 mini-project-2/
 ├── codes
 │   ├── Resnet_features_160.ipynb
